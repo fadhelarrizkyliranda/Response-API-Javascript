@@ -1,0 +1,19 @@
+{
+  "name": "response-api-javascript",
+  "version": "1.0.0",
+  "description": "Sebagai QA Engineer kalian ingin mengecek total quantity dari bebarapa storageId untuk productCode FBR00040101 (FloBrand-DressBSPink). Buatlah sebuah program javascript untuk menjumlahkan quantity dari semua storageId untuk produk tersebut.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadhelarrizkyliranda/Response-API-Javascript.git"
+  },
+  "author": "Fadhel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadhelarrizkyliranda/Response-API-Javascript/issues"
+  },
+  "homepage": "https://github.com/fadhelarrizkyliranda/Response-API-Javascript#readme"
+}
